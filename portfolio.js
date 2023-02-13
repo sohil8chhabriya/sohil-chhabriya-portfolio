@@ -1,8 +1,8 @@
 import emoji from "react-easy-emoji";
 
 export const greetings = {
-	name: "Hanzla Tauqeer",
-	title: "Hi all, I'm Hanzla",
+	name: "Sohil Chhabriya",
+	title: "Hi all, I'm Sohil",
 	description:
 		"I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
 	resumeLink:
@@ -10,18 +10,18 @@ export const greetings = {
 };
 
 export const openSource = {
-	githubUserName: "1hanzla100",
+	githubUserName: "sohil8chhabriya",
 };
 
 export const contact = {};
 
 export const socialLinks = {
-	url: "https://1hanzla100.github.io/",
-	linkedin: "https://www.linkedin.com/in/1hanzla100/",
-	github: "https://github.com/1hanzla100",
-	instagram: "https://www.instagram.com/__hanzla100",
-	facebook: "https://www.facebook.com/1hanzla100",
-	twitter: "https://twitter.com/1hanzla100",
+	// url: "https://1hanzla100.github.io/",
+	// linkedin: "https://www.linkedin.com/in/1hanzla100/",
+	github: "https://github.com/sohil8chhabriya",
+	// instagram: "https://www.instagram.com/__hanzla100",
+	// facebook: "https://www.facebook.com/1hanzla100",
+	// twitter: "https://twitter.com/1hanzla100",
 };
 
 export const skillsSection = {
@@ -255,7 +255,7 @@ export const projects = [
 	{
 		name: "developer-portfolio",
 		desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
-		github: "https://github.com/1hanzla100/developer-portfolio",
+		github: "https://github.com/sohil8chhabriya/sohil-chhabriya-portfolio",
 		link: "https://developer-portfolio-1hanzla100.vercel.app/",
 	},
 	{
@@ -293,19 +293,18 @@ export const showContactUs = true;
 
 // See object prototype on SEO.jsx page
 export const seoData = {
-	title: "Hanzla Tauqeer",
+	title: "Sohil Chhabriya",
 	description:
 		"A passionate Full Stack Web Developer and Blockchain Developer.",
-	author: "Hanzla Tauqeer",
+	author: "Sohil Chhabriya",
 	image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
 	url: "https://developer-portfolio-1hanzla100.vercel.app",
 	keywords: [
-		"Hanzla",
-		"Hanzla Tauqeer",
-		"@1hanzla100",
-		"1hanzla100",
+		"Sohil",
+		"Sohil Chhabriya",
+		"sohil8chhabriya",
 		"Portfolio",
-		"Hanzla Portfolio ",
-		"Hanzla Tauqeer Portfolio",
+		"Sohil Portfolio ",
+		"Sohil Chhabriya Portfolio",
 	],
 }
